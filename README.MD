@@ -64,7 +64,7 @@ A secure and high-performance Telegram bot built in Rust that enables private an
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/telegram_anonymouse.git
+git clone https://github.com/dimasmoore/bottelegram_anonymouschat.git
 cd telegram_bot
 ```
 
